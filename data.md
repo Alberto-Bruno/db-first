@@ -3,7 +3,7 @@ Struttura di una tabella per tutti i dati riguardanti delle auto usate messe in 
 
 
 
-CARS|TYPES|INDICI|ATTRIBUTI
+AUTO|TYPES|INDICI|ATTRIBUTI
 -------|-----|------|--------|
 ID|BIGINT|PRIMARY KEY|NOT NULL, UNIQUE, AUTO_INCREMENT|
 Marca|INT|           |NOT NULL|
